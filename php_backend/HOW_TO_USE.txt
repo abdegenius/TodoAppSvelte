@@ -1,0 +1,3 @@
+Simple.. SETUP a MYSQL database and edit the database connection credentials at inc/DB.php
+..Also in your svelte src/routes make sure you change http://localhost to
+the url where your codes are hosted
